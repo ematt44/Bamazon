@@ -23,7 +23,6 @@ connection.connect(function (err) {
     console.log("connected on: " + connection.threadId);
     customerChoices();
 
-
 });
 
 // Show the customer a list of available products to purchase
